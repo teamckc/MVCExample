@@ -21,7 +21,7 @@ import javax.swing.JSeparator;
 
 /**
  *
- * @author Cameron
+ * @author
  */
 public class View extends JFrame implements MessageHandler {
 
